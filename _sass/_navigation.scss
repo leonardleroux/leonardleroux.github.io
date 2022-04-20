@@ -31,7 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -314,8 +314,8 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
-
+  font-size: 1.25rem;  
+  
   ul {
     margin-bottom: 1em;
   }
@@ -348,8 +348,8 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-family: $serif;  
+  font-size: $type-size-3;  //4
   font-weight: bold;
 }
 

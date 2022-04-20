@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .page__footer {
+  display: none;
   @include clearfix;
   float: left;
   margin-left: 0;
@@ -12,22 +13,29 @@
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;
-  height: auto;
+  height: 10%;
+  //height: auto;
+  
   /* sticky footer fix end */
-  margin-top: 3em;
+  //  margin-top: 3em;
+  margin-top: auto;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color:#fff;
+  //background-color: $lighter-gray;
+
   border-top: 1px solid $light-gray;
 
   footer {
+    display: none;
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: auto;
+    //    margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
 
@@ -54,18 +62,21 @@
 }
 
 .page__footer-copyright {
+  display: none;
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-follow {
   ul {
+    display: none;
     margin: 0;
     padding: 0;
     list-style-type: none;
   }
 
   li {
+    display: none;
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -75,17 +86,20 @@
   }
 
   li + li:before {
+    display: none;
     content: "";
     padding-right: 5px;
   }
 
   a {
+    display: none;
     padding-right: 10px;
     font-weight: bold;
   }
 
   .social-icons {
     a {
+      display: none;
       white-space: nowrap;
     }
   }
