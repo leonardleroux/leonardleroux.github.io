@@ -36,6 +36,6 @@ author_profile: true
 <ins>Stacking up the ladder: A panel data analysis of Tanzanian household energy choices</ins> (2019), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home) and [Pascale Combes-Motel](https://sites.google.com/site/johannachoumertnkolo/home), *World Development*, vol. 115, pages 222-235. [(Link)](https://doi.org/10.1016/j.worlddev.2018.11.016)
 
 
-<ins>Decision-Making in a Water Crisis: Lessons From the Cape Town Drought for Urban Water Policy</ins> (2020), with [Johanna Brühl](https://anchorenvironmental.co.za/staff), [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff) and [Gunnar Köhlin](https://www.gu.se/en/about/find-staff/gunnarkohlin).*Oxford Research Encyclopedia of Environmental Science.*  [(Link)](https://doi.org/10.1093/acrefore/9780199389414.013.706)       
+<ins>Decision-Making in a Water Crisis: Lessons From the Cape Town Drought for Urban Water Policy</ins> (2020), with [Johanna Brühl](https://anchorenvironmental.co.za/staff), [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff) and [Gunnar Köhlin](https://www.gu.se/en/about/find-staff/gunnarkohlin), *Oxford Research Encyclopedia of Environmental Science.*  [(Link)](https://doi.org/10.1093/acrefore/9780199389414.013.706)       
 
 

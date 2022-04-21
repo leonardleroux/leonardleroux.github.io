@@ -12,4 +12,4 @@ I am a PhD student in Economics at Sciences Po Paris, working under the supervis
 
 You can find my CV [(here)](https://leonardleroux.github.io/files/Leonard%20le%20Roux.pdf) and my research [(here)](https://leonardleroux.github.io/research/)
 
-Feel free to contact me at leonard.leroux[at]sciencespo.fr
+Email: leonard.leroux[at]sciencespo.fr
