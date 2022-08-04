@@ -16,3 +16,5 @@ Teaching assistant to Pierre Cahuc
 <ins>Development Economics</ins> - Fall 2021.
 Teaching assistant to Golvine de Rochambeau
 
+<ins>Economic History</ins> - Fall 2022.
+Teaching assistant to Moritz Schularick
