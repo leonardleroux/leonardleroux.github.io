@@ -10,7 +10,7 @@ author_profile: true
 <h2 align="center"> In Progress</h2>
 
 
-<ins>Spatial wage disparities in South Africa</ins>
+<ins>Individual agglomeration gains and sorting in South Africa</ins>
 
 **Abstract:** How do agglomeration economies in lower and middle income countries differ from those in high income countries? This paper uses a large administrative panel data set on the universe of registered tax payers to derive precise estimates of the magnitude of agglomeration gains in South Africa. Following standard methods in the empirical urban economics literature closely, I derive estimates for the effect of urban density on wages controlling for individual and area fixed effects. 
 
@@ -18,7 +18,7 @@ author_profile: true
 
 **Abstract:** Non-democratic states often promote the development of strategic industries while simultaneously restricting internal migration. One objective of such restrictions is to provide key sectors of the economy with cheap labour. In this paper we study the case of Apartheid South Africa, where strict internal migration restrictions were imposed on the (majority) black population from 1923 until 1986. In part, this was done to divert cheap labour to the mining and agricultural sectors, which were important source of tax revenue and political capital respectively. Using data from Apartheid and post-Apartheid South African censuses, we document dramatic changes in internal geographic mobility patterns when restrictions are in place and after they are removed. We then build and estimate a migration choice model combined with a political economy module where the government can choose to impose migration restrictions to divert cheap labour to strategic industries.
 
-<ins>Traditional leaders and local government in South Africa</ins>, with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
+<ins>Traditional leaders and local government</ins>, with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
 
 **Abstract:** In many African countries, dual systems of institutions exist. Modern, democratic governments exist alongside systems of traditional leadership, communal land tenure and customary courts. In South Africa, roughly a third of the population reside in areas under some form of traditional authority. In this paper, we extract detailed information from twelve years of South African government gazettes to develop a granular view of the geography of the institution of traditional leadership. We combine this with panel data on municipal finances, service delivery and audit outcomes to understand the implications of a reform allowing for the participation of traditional leaders on local governments. 
 
