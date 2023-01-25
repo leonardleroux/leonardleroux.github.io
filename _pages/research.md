@@ -27,7 +27,7 @@ author_profile: true
 
 <h2 align="center"> Working Papers</h2>
 
-<ins>Adaptive Investment With Land Tenure and Weather Risk: Behavioral Evidence From Tanzania</ins>, with [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff), [Chalmers Mulwa](https://www.efdinitiative.org/about-efd/people/mulwa-chalmers), [Mintewab Bezabih](https://www.cccep.ac.uk/profile/mintewab-bezabih/) and [Byela Tibesigwa](https://www.efdinitiative.org/about-efd/people/tibesigwa-byela) (submitted), draft [(here)](https://leonardleroux.github.io/files/EfD-1275-2-DP22-14MS1275.pdf)
+<ins>Adaptive Investment With Land Tenure and Weather Risk: Behavioral Evidence From Tanzania</ins>, with [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff), [Chalmers Mulwa](https://www.efdinitiative.org/about-efd/people/mulwa-chalmers), [Mintewab Bezabih](https://www.cccep.ac.uk/profile/mintewab-bezabih/) and [Byela Tibesigwa](https://www.efdinitiative.org/about-efd/people/tibesigwa-byela) (Revise and resubmit at Journal of Economic Behavior and Organization), early draft [(here)](https://leonardleroux.github.io/files/EfD-1275-2-DP22-14MS1275.pdf)
 
 <ins>Internal migration and energy poverty in South Africa</ins> (2021), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home), draft [(here)](https://sa-tied.wider.unu.edu/sites/default/files/SA-TIED-WP165.pdf)
 
