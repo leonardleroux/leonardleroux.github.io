@@ -14,7 +14,7 @@ author_profile: true
 
 **Abstract:** How do agglomeration economies in lower and middle income countries differ from those in high income countries? This paper uses a large administrative panel data set on the universe of registered tax payers to derive precise estimates of the magnitude of agglomeration gains in South Africa. Following standard methods in the empirical urban economics literature closely, I derive estimates for the effect of urban density on wages controlling for individual and area fixed effects. 
 
-<ins>Economic Geography of Apartheid</ins>, with [Tomás Domínguez-Iino](https://www.tomasdomingueziino.com/) 
+<ins>The Economic Geography of Apartheid</ins>, with [Tomás Domínguez-Iino](https://www.tomasdomingueziino.com/) 
 
 **Abstract:** Non-democratic states often promote the development of strategic industries while simultaneously restricting internal migration. One objective of such restrictions is to provide key sectors of the economy with cheap labour. In this paper we study the case of Apartheid South Africa, where strict internal migration restrictions were imposed on the (majority) black population from 1923 until 1986. In part, this was done to divert cheap labour to the mining and agricultural sectors, which were important sources of tax revenue and political capital respectively. Using data from Apartheid and post-Apartheid South African censuses, we document dramatic changes in internal geographic mobility patterns when restrictions are in place and after they are removed. We then build and estimate a migration choice model combined with a political economy module where the government can choose to impose migration restrictions to divert cheap labour to strategic industries.
 
