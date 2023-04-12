@@ -23,7 +23,7 @@ author_profile: true
 **Abstract:** In many African countries, dual systems of institutions exist. Modern, democratic governments exist alongside systems of traditional leadership, communal land tenure and customary courts. In South Africa, roughly a third of the population reside in areas under some form of traditional authority. In this paper, we extract detailed information from twelve years of South African government gazettes to develop a granular view of the geography of the institution of traditional leadership. We combine this with panel data on municipal finances, service delivery and audit outcomes to understand the implications of a reform allowing for the participation of traditional leaders on local governments. 
 
 
-<ins>Willingness to pay for cooking fuels in two African cities: a comparative analysis of Nairobi and Dar es Salaam</ins>, with [Ipsita Das](https://energyaccess.duke.edu/team/ipsita-das/), [Marc Jeuland](https://nicholas.duke.edu/people/faculty/jeuland) and [Remidius Ruhinduka](https://www.theigc.org/person/remidius-ruhinduka/) 
+<ins>Demand for Cooking Fuels in African Cities: Insights from Dar es Salaam and Nairobi and Implications for Policy</ins>, with [Ipsita Das](https://energyaccess.duke.edu/team/ipsita-das/), [Marc Jeuland](https://nicholas.duke.edu/people/faculty/jeuland) and [Remidius Ruhinduka](https://www.theigc.org/person/remidius-ruhinduka/) 
 
 <h2 align="center"> Working Papers</h2>
 
