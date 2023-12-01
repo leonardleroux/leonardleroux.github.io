@@ -28,17 +28,17 @@ author_profile: true
 
 <h2 align="center"> Working Papers</h2>
 
-<ins>Adaptive Investment With Land Tenure and Weather Risk: Behavioral Evidence From Tanzania</ins>, with [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff), [Chalmers Mulwa](https://www.efdinitiative.org/about-efd/people/mulwa-chalmers), [Mintewab Bezabih](https://www.cccep.ac.uk/profile/mintewab-bezabih/) and [Byela Tibesigwa](https://www.efdinitiative.org/about-efd/people/tibesigwa-byela) (Accepted with minor revisions at *Journal of Economic Behavior and Organization*), early draft [(here)](https://leonardleroux.github.io/files/EfD-1275-2-DP22-14MS1275.pdf)
 
-<ins>Internal migration and energy poverty in South Africa</ins> (2021), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home), (submitted) draft [(here)](https://sa-tied.wider.unu.edu/sites/default/files/SA-TIED-WP165.pdf)
 
-<ins>Demand for Cooking Fuels in African Cities: Insights from Dar es Salaam and Nairobi and Implications for Policy</ins>, with [Ipsita Das](https://energyaccess.duke.edu/team/ipsita-das/), [Marc Jeuland](https://nicholas.duke.edu/people/faculty/jeuland) and [Remidius Ruhinduka](https://www.theigc.org/person/remidius-ruhinduka/), (submitted)
+<ins>Leaving the Hearth You Know: Internal Migration and Energy Poverty</ins>, with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home), (Revise and resubmit at *World Development*)
 
-<h2 align="center">Pre-PhD Publications</h2>
+<ins>Demand for Cooking Fuels in African Cities: Insights from Dar es Salaam and Nairobi and Implications for Policy</ins>, with [Ipsita Das](https://energyaccess.duke.edu/team/ipsita-das/), [Marc Jeuland](https://nicholas.duke.edu/people/faculty/jeuland) and [Remidius Ruhinduka](https://www.theigc.org/person/remidius-ruhinduka/), (Revise and resubmit at *PLOS Sustainability and Transformation*)
 
-<ins>Stacking up the ladder: A panel data analysis of Tanzanian household energy choices</ins> (2019), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home) and [Pascale Combes-Motel](https://sites.google.com/site/johannachoumertnkolo/home), *World Development*, vol. 115, pages 222-235. [(Link)](https://doi.org/10.1016/j.worlddev.2018.11.016)
+<h2 align="center">Publications</h2>
+
+<ins>Adaptive Investment With Land Tenure and Weather Risk: Behavioral Evidence From Tanzania</ins> (2024), with [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff), [Chalmers Mulwa](https://www.efdinitiative.org/about-efd/people/mulwa-chalmers), [Mintewab Bezabih](https://www.cccep.ac.uk/profile/mintewab-bezabih/) and [Byela Tibesigwa](https://www.efdinitiative.org/about-efd/people/tibesigwa-byela), *Journal of Economic Behavior and Organization*, [(Link)](https://doi.org/10.1016/j.jebo.2023.10.040)
 
 
 <ins>Decision-Making in a Water Crisis: Lessons From the Cape Town Drought for Urban Water Policy</ins> (2020), with [Johanna Brühl](https://anchorenvironmental.co.za/staff), [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff) and [Gunnar Köhlin](https://www.gu.se/en/about/find-staff/gunnarkohlin), *Oxford Research Encyclopedia of Environmental Science.*  [(Link)](https://doi.org/10.1093/acrefore/9780199389414.013.706)       
 
-
+<ins>Stacking up the ladder: A panel data analysis of Tanzanian household energy choices</ins> (2019), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home) and [Pascale Combes-Motel](https://sites.google.com/site/johannachoumertnkolo/home), *World Development*, vol. 115, pages 222-235. [(Link)](https://doi.org/10.1016/j.worlddev.2018.11.016)
