@@ -26,17 +26,15 @@ author_profile: true
 
 **Abstract:** In many African countries dual systems of institutions exist. Modern, democratic governments exist alongside systems of traditional leadership, communal land tenure and customary courts. In South Africa, roughly a third of the population -18 million people- reside in areas under some form of traditional authority. This paper evaluates the impact of a reform allowing for the participation of traditional leaders on municipal councils on service delivery, spending outcomes and public perceptions. We create a new database by searching through and extracting detailed information from South African government gazettes and combine this with yearly panel data on municipal finances, service delivery and audit outcomes. Preliminary results suggest the participation of traditional leaders leads to limited changes in municipal service delivery and spending priorities, but coincides with an increase in irregular expenditure and a significant increase in protests in municipalities affected by the reform.  
 
-<h2 align="center"> Working Papers</h2>
 
- 
-
-<ins>Leaving the Hearth You Know: Internal Migration and Energy Poverty</ins>, with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home), (Forthcoming in *World Development*), [(Link)](https://www.dropbox.com/scl/fi/e62enl10tvqot63xddr1x/Internal-Migration-and-Energy-Poverty.pdf?rlkey=bzqvxxidjzhalhlduhwg6qhfm&dl=0)
 
 <h2 align="center">Publications</h2>
 
 
 
 <ins>Adaptive Investment With Land Tenure and Weather Risk: Behavioral Evidence From Tanzania</ins> (2024), with [Martine Visser](http://www.economics.uct.ac.za/eco/Academic-Staff), [Chalmers Mulwa](https://www.efdinitiative.org/about-efd/people/mulwa-chalmers), [Mintewab Bezabih](https://www.cccep.ac.uk/profile/mintewab-bezabih/) and [Byela Tibesigwa](https://www.efdinitiative.org/about-efd/people/tibesigwa-byela), *Journal of Economic Behavior and Organization*, [(Link)](https://doi.org/10.1016/j.jebo.2023.10.040)
+
+<ins>Leaving the Hearth You Know: Internal Migration and Energy Poverty</ins> (2024), with [Johanna Choumert-Nkolo](https://sites.google.com/site/johannachoumertnkolo/home), *World Development*, [(Link)](https://doi.org/10.1016/j.worlddev.2024.106628)
 
 <ins>Urban demand for cooking fuels in two major African cities and implications for policy</ins> (2024), with [Ipsita Das](https://energyaccess.duke.edu/team/ipsita-das/), [Marc Jeuland](https://nicholas.duke.edu/people/faculty/jeuland) and [Remidius Ruhinduka](https://www.theigc.org/person/remidius-ruhinduka/), *PLOS Sustainability and Transformation*, [(Link)](https://doi.org/10.1371/journal.pstr.0000077)
 
