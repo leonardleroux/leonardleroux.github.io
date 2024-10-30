@@ -12,21 +12,19 @@ author_profile: true
 
 ### Job Market Paper:
 
-<ins>[Informality and Violence: Evidence from South Africa](https://drive.google.com/file/d/1RWqWQP70Eji_SvOsFJb7oAQmqKQqdAJx/view?usp=sharing)
-</ins>
+[Informality and Violence: Evidence from South Africa](https://drive.google.com/file/d/1RWqWQP70Eji_SvOsFJb7oAQmqKQqdAJx/view?usp=sharing)
 
 **Abstract:** This paper studies the emergence of violence in legal markets, with a particular focus on the informal commuter transport sector in South Africa, where minibus taxis are integral to urban mobility. Despite being a legal sector, the taxi industry is plagued by significant and persistent violence, imposing substantial social costs. Using novel administrative data from the government’s operating license system, route-level pricing information, and a unique dataset of taxi-related violence compiled from print and online media, I examine the interplay between competition, firm growth, and violence. I leverage variation from a sudden decline in rail service quality to estimate the effect of local demand shocks on taxi-related violence in a difference-in-differences framework. The taxi associations most positively affected by this demand shock experience both a large growth in their membership and substantial increases in violence. The results highlight that when state institutions do not function well, legal firms that rely on the threat of violence to protect property rights may not fully internalise the costs of violence in their economic responses to economic shocks.
 
 
 ### Working Papers:
 
-<ins>[Spatial Wage Disparities and Sorting in a Middle-Income Country: Evidence from South Africa](https://drive.google.com/file/d/1w3r6cSfQWUaN5LWy6Ex-J8tKwjqchnPm/view?usp=sharing) 
-</ins>
+[Spatial Wage Disparities and Sorting in a Middle-Income Country: Evidence from South Africa](https://drive.google.com/file/d/1w3r6cSfQWUaN5LWy6Ex-J8tKwjqchnPm/view?usp=sharing) 
 
 
 **Abstract:** How do individual agglomeration gains in lower and middle income countries differ from those in high income countries? This paper uses a large administrative panel (2013-2019) of the universe of registered taxpayers in South Africa to estimate the magnitude of private sector agglomeration gains following best-practice methods in the empirical urban economics literature. The distribution of gains from density across the income distribution, and by industry and gender, as well as dynamic effects are presented. The estimation yields a result of 0.021 for the elasticity of wages with respect to density, considerably lower than estimates from other middle income countries that have relied on cross-sectional datasets that do not allow for the inclusion of individual fixed effects. 
 
-<ins>[Cooperative governance: Traditional leaders and local government](https://drive.google.com/file/d/1av78WO2u_qEHGTzl_UEOZj4zwxLd0nS1/view?usp=sharing)</ins>, with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
+[Cooperative governance: Traditional leaders and local government](https://drive.google.com/file/d/1av78WO2u_qEHGTzl_UEOZj4zwxLd0nS1/view?usp=sharing), with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
 
 **Abstract:** In many African countries dual systems of institutions exist. Modern, democratic governments exist alongside systems of traditional leadership, communal land tenure and customary courts. In South Africa, roughly a third of the population -18 million people- reside in areas under some form of traditional authority. This paper evaluates the impact of a reform allowing for the participation of traditional leaders on municipal councils on service delivery, spending outcomes and public perceptions. We create a new database by searching through and extracting detailed information from South African government gazettes and combine this with yearly panel data on municipal finances, service delivery and audit outcomes. Preliminary results suggest the participation of traditional leaders leads to limited changes in municipal service delivery and spending priorities, but coincides with an increase in irregular expenditure and a significant increase in protests in municipalities affected by the reform.   
 
