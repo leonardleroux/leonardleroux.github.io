@@ -11,7 +11,7 @@ author_profile: true
 
 <div align="center">
 
-## Job Market Paper:
+<h2>Job Market Paper:</h2>
 
 </div>
 
@@ -22,7 +22,7 @@ author_profile: true
 
 <div align="center">
 
-## Working Papers:
+<h2>Working Papers:</h2>
 
 </div>
 
@@ -37,7 +37,7 @@ author_profile: true
 
 <div align="center">
 
-## In Progress:
+<h2>In Progress:</h2>
 
 </div>
 
@@ -48,7 +48,7 @@ author_profile: true
 
 <div align="center">
 
-## Publications:
+<h2>Publications:</h2>
 
 </div>
 
