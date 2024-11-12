@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at [Sciences Po Paris](https://www.sciencespo.fr/department-economics/), working under the supervision of [Benjamin Marx](https://sites.google.com/view/bmarx/home) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/). This year I am a PhD fellowship holder at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en).
 
-My research interests are in development, urban and environmental economics. At a broad level, I am interested in the interactions rapid urbanization with governance and state capacity in lower and middle income countries.
+My research interests are in development, urban and environmental economics. At a broad level, I am interested in the interactions of rapid urbanization with governance and state capacity in lower and middle income countries.
 
 **I am on the 2024/2025 Job Market**
 
