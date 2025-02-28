@@ -8,10 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-
 <div align="center">
 
-<h2>Job Market Paper:</h2>
+<h2>Working Papers:</h2>
 
 </div>
 
@@ -19,12 +18,6 @@ author_profile: true
 
 **Abstract:** This paper studies the emergence of violence in legal markets, with a particular focus on the informal commuter transport sector in South Africa, where minibus taxis are integral to urban mobility. Despite being a legal sector, the taxi industry is plagued by significant and persistent violence, imposing substantial social costs. Using novel administrative data from the government’s operating license system, route-level pricing information, and a unique dataset of taxi-related violence compiled from print and online media, I examine the interplay between competition, firm growth, and violence. I leverage variation from a sudden decline in rail service quality to estimate the effect of local demand shocks on taxi-related violence in a difference-in-differences framework. The taxi associations most positively affected by this demand shock experience substantial increases in violence. Excess entry appears to be the main mechanism driving this result. These findings suggest firms do not internalize the costs of violence in ways that limit its occurrence when faced with economic shocks, highlighting the limits of private organizing in the absence of well functioning state institutions.
 
-
-<div align="center">
-
-<h2>Working Papers:</h2>
-
-</div>
 
 [Spatial Wage Disparities and Sorting in a Middle-Income Country: Evidence from South Africa](https://drive.google.com/file/d/1w3r6cSfQWUaN5LWy6Ex-J8tKwjqchnPm/view?usp=sharing) 
 
