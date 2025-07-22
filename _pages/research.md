@@ -19,7 +19,7 @@ author_profile: true
 
 
 [Spatial Wage Disparities and Sorting in a Middle-Income Country: Evidence from South Africa](https://drive.google.com/file/d/1w3r6cSfQWUaN5LWy6Ex-J8tKwjqchnPm/view?usp=sharing) 
-
+Revise and Resubmit at *Regional Science and Urban Economics*
 
 
 [Cooperative governance: Traditional leaders and local government](https://drive.google.com/file/d/1av78WO2u_qEHGTzl_UEOZj4zwxLd0nS1/view?usp=sharing), with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
