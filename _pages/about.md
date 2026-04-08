@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I am a Postdoctoral Research Fellow at the Economic Research Unit of the [IFC-World Bank Group](https://www.ifc.org/en/home). I obtained my PhD in Economics from [Sciences Po Paris](https://www.sciencespo.fr/department-economics/) in June 2025, under the supervision of [Benjamin Marx](https://sites.google.com/view/bmarx/home) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
+=======
+I am a Postdoctoral Research Fellow at the Economic Research Unit of the IFC-World Bank Group. I received my PhD in Economics from [Sciences Po Paris](https://www.sciencespo.fr/department-economics/) in June 2025, under the supervision of [Benjamin Marx](https://sites.google.com/view/bmarx/home) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
+>>>>>>> Stashed changes
 =======
 I am a Postdoctoral Research Fellow at the Economic Research Unit of the IFC-World Bank Group. I received my PhD in Economics from [Sciences Po Paris](https://www.sciencespo.fr/department-economics/) in June 2025, under the supervision of [Benjamin Marx](https://sites.google.com/view/bmarx/home) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
 >>>>>>> Stashed changes
