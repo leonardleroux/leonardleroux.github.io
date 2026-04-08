@@ -22,7 +22,7 @@ author_profile: true
 Revise and Resubmit at *Regional Science and Urban Economics*.
 
 
-[Cooperative governance: Traditional leaders and local government](https://drive.google.com/file/d/1av78WO2u_qEHGTzl_UEOZj4zwxLd0nS1/view?usp=sharing), with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf)
+[Cooperative governance: Traditional leaders and local government](https://drive.google.com/file/d/1av78WO2u_qEHGTzl_UEOZj4zwxLd0nS1/view?usp=sharing), with [Dieter Von Fintel](https://www.ekon.sun.ac.za/dvf) *Submitted*
 
 
 <div align="center">
@@ -32,6 +32,8 @@ Revise and Resubmit at *Regional Science and Urban Economics*.
 </div>
 
 [The Political Economy of Migration Restrictions under Apartheid](https://drive.google.com/file/d/1oZtMZbrS6FKaGGPDqYYdMc_6DaNyiOsA/view?usp=sharing), with [Tomás Domínguez-Iino](https://www.tomasdi.com/) 
+
+Effects of Competition Enforcement Along the Value Chain, with [Chiara Criscuolo](https://cep.lse.ac.uk/_new/people/person.asp?id=10525), [Tomaso Duso](https://sites.google.com/site/tomasoduso/home) and [Antonis Tsiflis](https://atsiflis.com/) 
 
 
 <div align="center">
