@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leonard le Roux"
 title_separator          : "-"
 name                     : &name "Leonard le Roux"
-description              : &description "PhD student in economics at Sciences Po, Paris"
+description              : &description "Economist, Assistant Professor, Universitat Autònoma de Barcelona"
 url                      : https://leonardleroux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leonardleroux/leonardleroux.github.io"
@@ -82,7 +82,7 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : 
-  location         : "Sciences Po, Paris"
+  location         : "Barcelona"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e0XAcuEAAAAJ&hl=en&authuser=1"
