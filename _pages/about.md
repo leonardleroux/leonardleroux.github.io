@@ -11,9 +11,7 @@ I am an Assistant Professor in the [Applied Economics Department at Universitat 
 
 My research interests are in development, urban and environmental economics. At a broad level, I am interested in the interactions of rapid urbanization with governance and state capacity in lower and middle income countries.
 
-You can find my CV [(here)](https://leonardleroux.github.io/files/Leonard%20le%20Roux.pdf).
-
-Email: leonard.leroux[at]uab.cat
+You can find my CV [(here)](https://leonardleroux.github.io/files/Leonard%20le%20Roux.pdf). Email: leonard.leroux[at]uab.cat
 
 ## Working Papers:
 
